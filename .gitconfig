@@ -1,0 +1,7 @@
+[alias]
+	co = checkout
+	cob = checkout -b
+	br = branch
+	brd = branch -D
+	cm = commit -m
+	addcm = !git add -A && git commit -m
